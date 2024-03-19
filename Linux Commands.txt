@@ -1,0 +1,32 @@
+                                                         /Linux Commands/
+		
+-> Touch file_name					__________To create file
+-> cat file_name					__________To read the file
+-> vi file_name						__________To edit the file
+-> (press i)						__________After you edit the file press i to insert data or the chnge the data
+-> (press esc and): wq!					__________To save the edited data
+-> mkdir New_folder_name				__________To create new folder (make directory)
+-> cd ~/downloads/					__________To open downloads (where, cd is change directory nd ~ denotes home)
+-> cd ..	  					__________To go one step back directory(ie, from above eg we go to home)
+-> df -h						__________To know about the storage information
+-> top 							__________To know the cpu utilization(RAM)
+-> du -sh						__________To know the meamory of the folder
+-> ls 							__________show the list of the selected folder
+-> ll 							__________Shows the list with permissions
+-> rm -rf folder name 					__________To delete the folder
+-> clear 						__________To clear the screen
+-> exit 						__________to exit from the server
+-> chmod 						__________change mode
+-> sudo -s 						__________To become a root user
+--------------------------------------------------------------------------------------------------------------------------
+-> ssh -i (keypair).pem ubuntu@(serverid) 	_______To connect the server into online(ie,To make server into public)
+
+-> cp -r (address of file to coppy)/ (destination address) _______copy paste
+
+-> mv (address of file to coppy)/ (destination address) __________cut paste (ie, move)
+
+-> cd /etc/        _____________________________________ to view the configration files
+-> cd /opt/        _____________________________________ location of installed softwares
+--------------------------------------------------------------------------------------------------------------------------
+-> pwd   _______________________________________________show the current working path 
+-> rm
